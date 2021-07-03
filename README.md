@@ -2,8 +2,8 @@
 
 ### Technology to build this project
 
-Dotnet on back-end(server-side)</br>
-React on front-end(client-side)
+.NET on back-end(server-side)</br>
+ReactJS on front-end(client-side)
 
 ### How to use
 
